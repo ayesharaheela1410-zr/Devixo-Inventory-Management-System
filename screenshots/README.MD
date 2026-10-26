@@ -1,0 +1,1 @@
+Screenshots were captured during the development and testing of the Inventory Management System to document program execution, product management operations, low-stock alerts, inventory reports, and sales receipt generation. These screenshots demonstrate the system's functionality and provide visual evidence of the implemented features.
