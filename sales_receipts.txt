@@ -1,0 +1,9 @@
+
+========== SALES RECEIPT ==========
+Product ID: 101
+Product Name: Book
+Quantity Sold: 3
+Unit Price: 180.00
+Total Amount: 540.00
+Remaining Stock: 2
+===================================
